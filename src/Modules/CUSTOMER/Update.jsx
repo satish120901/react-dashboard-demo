@@ -27,7 +27,6 @@ function Update() {
           username:data.username,
           password:data.password,
           usertype:data.usertype,
-      
     }
     
     const formData=new FormData();
